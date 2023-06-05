@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<robot name="object">
+  <link name="object">
+
+    <collision name="box_0">
+      <origin xyz="-3.57 0 0.08"/>
+      <geometry>
+        <box size="7.00 7.00 0.16"/>
+      </geometry>
+    </collision>
+
+    <collision name="box_1">
+      <origin xyz="-3.57 0 0.24"/>
+      <geometry>
+        <box size="6.36 6.36 0.16"/>
+      </geometry>
+    </collision>
+
+    <collision name="box_2">
+      <origin xyz="-3.57 0 0.40"/>
+      <geometry>
+        <box size="5.72 5.72 0.16"/>
+      </geometry>
+    </collision>
+
+  </link>
+</robot>

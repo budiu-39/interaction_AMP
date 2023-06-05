@@ -1,0 +1,48 @@
+motions:
+  - file: "chair_mo001_stageII.npy"
+    weight: 0.04
+  - file: "chair_mo002_stageII.npy"
+    weight: 0.04
+  - file: "chair_mo003_stageII.npy"
+    weight: 0.04
+  - file: "chair_mo004_stageII.npy"
+    weight: 0.04
+  - file: "chair_mo005_stageII.npy"
+    weight: 0.04
+  - file: "chair_mo006_stageII.npy"
+    weight: 0.04
+  - file: "chair_mo007_stageII.npy"
+    weight: 0.04
+  - file: "chair_mo008_stageII.npy"
+    weight: 0.04
+  - file: "chair_mo009_stageII.npy"
+    weight: 0.04
+  - file: "chair_mo010_stageII.npy"
+    weight: 0.04
+  - file: "chair_mo011_stageII.npy"
+    weight: 0.04
+  - file: "chair_mo012_stageII.npy"
+    weight: 0.04
+  - file: "chair_mo013_stageII.npy"
+    weight: 0.04
+  - file: "chair_mo014_stageII.npy"
+    weight: 0.04
+  - file: "chair_mo015_stageII.npy"
+    weight: 0.04
+  - file: "chair_mo016_stageII.npy"
+    weight: 0.04
+  - file: "chair_mo017_stageII.npy"
+    weight: 0.04
+  - file: "chair_mo018_stageII.npy"
+    weight: 0.04
+  - file: "chair_mo019_stageII.npy"
+    weight: 0.04
+  - file: "chair_mo_sit2sit001_stageII.npy"
+    weight: 0.04
+  - file: "chair_mo_sit2sit002_stageII.npy"
+    weight: 0.04
+  - file: "chair_mo_sit2sit_stageII.npy"
+    weight: 0.04
+  - file: "chair_mo_stageII.npy"
+    weight: 0.04
+

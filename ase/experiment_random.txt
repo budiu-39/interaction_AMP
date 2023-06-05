@@ -1,0 +1,1 @@
+{'success rate:': tensor(0.5403, device='cuda:0'), 'error of mean square:': tensor(0.1268, device='cuda:0'), 'sample nums:': tensor(506, device='cuda:0')}

@@ -1,0 +1,12 @@
+<?xml version="0.0"?>
+	<robot name="object">
+		<link name="object">
+			<collision>
+				<origin xyz="0 0 0"/>
+				<geometry>
+					<mesh filename="./geom/0f25a699-6560-426d-a590-7e69986c449d.obj"/>
+				</geometry>
+			</collision>
+		</link>
+
+	</robot>

@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<robot name="object">
+  <link name="object">
+
+    <collision name="box_0">
+      <origin xyz="-3.57 0 0.08"/>
+      <geometry>
+        <box size="7.00 7.00 0.16"/>
+      </geometry>
+    </collision>
+
+    <collision name="box_1">
+      <origin xyz="-3.57 0 0.24"/>
+      <geometry>
+        <box size="6.36 6.36 0.16"/>
+      </geometry>
+    </collision>
+
+    <collision name="box_2">
+      <origin xyz="-3.57 0 0.40"/>
+      <geometry>
+        <box size="5.72 5.72 0.16"/>
+      </geometry>
+    </collision>
+
+    <collision name="box_3">
+      <origin xyz="-3.57 0 0.56"/>
+      <geometry>
+        <box size="5.08 5.08 0.16"/>
+      </geometry>
+    </collision>
+
+    <collision name="box_4">
+      <origin xyz="-3.57 0 0.72"/>
+      <geometry>
+        <box size="4.44 4.44 0.16"/>
+      </geometry>
+    </collision>
+
+    <collision name="box_5">
+      <origin xyz="-3.57 0 0.88"/>
+      <geometry>
+        <box size="3.8 3.8 0.16"/>
+      </geometry>
+    </collision>
+
+    <collision name="box_6">
+      <origin xyz="-3.57 0 1.04"/>
+      <geometry>
+        <box size="3.16 3.16 0.16"/>
+      </geometry>
+    </collision>
+
+    <collision name="box_7">
+      <origin xyz="-3.57 0 1.20"/>
+      <geometry>
+        <box size="2.52 2.52 0.16"/>
+      </geometry>
+    </collision>
+
+    <collision name="box_8">
+      <origin xyz="-3.57 0 1.36"/>
+      <geometry>
+        <box size="1.88 1.88 0.16"/>
+      </geometry>
+    </collision>
+
+    <collision name="box_9">
+      <origin xyz="-3.57 0 1.52"/>
+      <geometry>
+        <box size="1.24 1.24 0.16"/>
+      </geometry>
+    </collision>
+
+
+
+
+  </link>
+</robot>
