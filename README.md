@@ -8,17 +8,7 @@
   
   
 ### 实现的效果
-1. 当输入为单一风格的运动片段时  
-   多个角色以相同的方式与物体发生交互，且运动轨迹不具有泛化性。  
-
-![image](https://github.com/budiu-39/interaction_AMP/blob/main/single_reference.gif)   
-  
-    
-2. 当输入为多个风格的运动片段时  
-   多个角色以不同的风格与物体发生交互，运动轨迹具有良好的泛化性。  
-   泛化性指，在距离交互物体一定范围内，角色的初始位置与朝向被随机初始化后，最终都可以坐在椅子上。  
-
-![image](https://github.com/budiu-39/interaction_AMP/blob/main/multi_reference.gif)
+这一部分还有后续相关工作，所以目前暂时不公开啦:)  
 
 ### 其他的尝试
 除了人体-物体交互运动，俺还在**人体-地形交互**方面（与交互运动的原理相似）做过一些尝试
