@@ -23,12 +23,12 @@ Generalizability here means that when the character's initial position and orien
 ### Other Attempts
 In addition to human-object interaction motion, I also explored** human-terrain interaction** (similar principles to interaction motion) with some experiments.
   
-1.** Ascending stairs along a fixed path: **
+1. **Ascending stairs along a fixed path:**
 
 ![image](https://github.com/budiu-39/interaction_AMP/blob/main/terrain_1.gif)
 
 
-2. **Autonomous exploration on terrain:  **
+2. **Autonomous exploration on terrain:**
 
 ![image](https://github.com/budiu-39/interaction_AMP/blob/main/terrain_2.gif)
 
