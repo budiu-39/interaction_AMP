@@ -8,13 +8,13 @@ The methodology is based on the adversarial imitation learning approach for inte
   
   
 ### Implementation Results 
-1. **When the input is a single-style motion clip**
+1. **When the input is a single-style motion clip**  
 Multiple characters interact with the object in the same style, with limited generalizability in their motion paths.  
 
 ![image](https://github.com/budiu-39/interaction_AMP/blob/main/single_reference.gif)   
 
 
-2. **When the input includes multiple styles of motion clips**
+2. **When the input includes multiple styles of motion clips**  
 Multiple characters interact with the object in various styles, demonstrating good generalizability in their motion paths.
 Generalizability here means that when the character's initial position and orientation are 
 
