@@ -1,9 +1,9 @@
 # interaction_AMP
 ### codebase
-This project is an improvement based on the AMP code from here https://nv-tlabs.github.io/ASE/, resulting in a system that generates** physically-based human-object interaction motion**.  
+This project is an improvement based on the AMP code from here https://nv-tlabs.github.io/ASE/, resulting in a system that generates **physically-based human-object interaction motion**.  
 
 ### Project Principles
-The methodology is based on the adversarial imitation learning approach for interaction motion generation proposed in the SIGGRAPH 2023 paper, Synthesizing Physical Character-Scene Interactions.
+The methodology is based on the adversarial imitation learning approach for interaction motion generation proposed in the SIGGRAPH 2023 paper, Synthesizing Physical Character-Scene Interactions. \\
 (Note: only the chair interaction task from the paper was reproduced, though the principles are consistent across other tasks.)  
   
   
@@ -35,7 +35,8 @@ In addition to human-object interaction motion, I also explored** human-terrain 
 Code for human-terrain interaction can be found here: https://github.com/budiu-39/AMP_terrain  
 
 ### Summary
-Reproducing human-object interaction motion generation based on the paper’s theoretical foundation is relatively straightforward, though transferring this approach to a complex terrain setting has been less effective. Generating generalized 3D human motion for terrain-based interactions currently lacks a robust solution, making it a promising direction for further exploration!  
+Reproducing human-object interaction motion generation based on the paper’s theoretical foundation is relatively straightforward, though transferring this approach to a complex terrain setting has been less effective.  \\
+Generating generalized 3D human motion for terrain-based interactions currently lacks a robust solution, making it a promising direction for further exploration!  
 
 
  
